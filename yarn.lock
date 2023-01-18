@@ -7,7 +7,17 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-16.18.11.tgz#cbb15c12ca7c16c85a72b6bdc4d4b01151bb3cae"
   integrity sha512-3oJbGBUWuS6ahSnEq1eN2XrCyf4YsWI8OyCvo7c64zQJNplk3mO84t53o8lfTk+2ji59g5ycfc6qQ3fdHliHuA==
 
+await-to-js@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/await-to-js/-/await-to-js-3.0.0.tgz#70929994185616f4675a91af6167eb61cc92868f"
+  integrity sha512-zJAaP9zxTcvTHRlejau3ZOY4V7SRpiByf3/dxx2uyKxxor19tpmpV2QRsTKikckwhaPmr2dVpxxMr7jOCYVp5g==
+
 node-downloader-helper@2.1.6:
   version "2.1.6"
   resolved "https://registry.yarnpkg.com/node-downloader-helper/-/node-downloader-helper-2.1.6.tgz#f73ac458e3ac8c21afd0b952a994eab99c64b879"
   integrity sha512-VkOvAXIopI3xMuM/MC5UL7NqqnizQ/9QXZt28jR8FPZ6fHLQm4xe4+YXJ9FqsWwLho5BLXrF51nfOQ0QcohRkQ==
+
+prettier@^2.8.3:
+  version "2.8.3"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.3.tgz#ab697b1d3dd46fb4626fbe2f543afe0cc98d8632"
+  integrity sha512-tJ/oJ4amDihPoufT5sM0Z1SKEuKay8LfVAMlbbhnnkvt6BUserZylqo2PN+p9KeljLr0OHa2rXHU1T8reeoTrw==

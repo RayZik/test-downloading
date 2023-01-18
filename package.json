@@ -4,14 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "start": "npx ts-node index.ts"
+    "start": "npx ts-node index.ts"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "await-to-js": "^3.0.0",
     "node-downloader-helper": "2.1.6"
   },
   "devDependencies": {
-    "@types/node": "16.*"
+    "@types/node": "16.*",
+    "prettier": "^2.8.3"
   }
 }
