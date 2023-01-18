@@ -1,0 +1,17 @@
+{
+  "name": "test-downloading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "start": "npx ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-downloader-helper": "2.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "16.*"
+  }
+}
